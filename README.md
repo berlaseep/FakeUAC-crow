@@ -19,5 +19,5 @@ Or download .zip
      pip install pyisntaller  
      pyinstaller --onefile --icon="cmd.ico" -w FakeUAC.py
      
-# IF YOU SEE AND ERROR PLEASE SEND ME A MESAGGE TO ME: ELESPEJO27@PROTON.ME
+# IF YOU SEE AND ERROR PLEASE SEND A PULL REQUESTS
      
