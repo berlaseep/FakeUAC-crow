@@ -27,5 +27,8 @@ Or download .zip
    ```
 -Remember change webhook (line 13)
 
+# I WORK IN A AVANCED REPOSITORIE WITH DISDCORD COMMNADS I UPLOAD TO  NEW REPOSITORIE:
+https://github.com/berlaseep/FakeUAC-crowDIFICULT/
+
 # IF YOU SEE AND ERROR PLEASE SEND A PULL REQUESTS
      
