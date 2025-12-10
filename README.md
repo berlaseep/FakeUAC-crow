@@ -19,5 +19,13 @@ Or download .zip
      pip install pyisntaller  
      pyinstaller --onefile --icon="cmd.ico" -w FakeUAC.py
      
+
+###  IMPORTANT THINGS
+  - In line 29 exits a block users list comment if you no use it
+   ``` 
+   blocked_users = ["alumno", "profesor"]
+   ```
+-Remember change webhook (line 13)
+
 # IF YOU SEE AND ERROR PLEASE SEND A PULL REQUESTS
      
